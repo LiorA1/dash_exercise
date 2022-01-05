@@ -1,7 +1,7 @@
 # dash_exercise
 A simple dashboard using Dash, Plotly, Pandas. 
 
-Dependencies -
+## Dependencies -
 The Assignment was solved using the following:
 1.	Python 3.8 Interpreter (3.8.5)
 2.	Dash 2.0.0
@@ -10,7 +10,7 @@ The Assignment was solved using the following:
 5.	Pandas 1.3.4
 6.	Plotly 5.1.0
 
-Remarks -
+## Remarks -
 The distinguish between numeric variables to categorical made on a personal logic basis, and then using the function ‘get_col_keys’ by a specific threshold.
 
 All graphs were build using plotly-express, besides the charts with two categorical variables that was too complexed and was build using plotly graph objects.
@@ -21,4 +21,8 @@ Style was made using ‘external_stylesheets’ and with the style attribute of 
 It considered best practice to include all css style in a specific file, so I tried to match it.
 
 The Dash App is working and there are 7 screenshots, with different styles to show that.
+
+
+### See More examples at:
+https://dash.gallery/Portal/
 
